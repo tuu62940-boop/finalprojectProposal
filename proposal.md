@@ -24,7 +24,7 @@ Partner Name: Saketh (Jai) Nayak, Email Address: tuu52393@temple.edu, TA: Negar 
 
 ### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
 
-A good outcome for thi
+A good outcome for this is a game that simply just works and is playable
 
 ### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 
